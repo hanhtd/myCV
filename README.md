@@ -1,6 +1,6 @@
 # myCV
-This project stores my CV under latex format, and the content of CV will be updated three times per years.
-Current version = 15-May-2017.
+This project stores my CV under latex format, and the content of CV will be updated three times per year.
+Current version = 20-Dec-2018.
 Latex back-end 	= texlive 2016.
 Latex editor 	= text marker or overleaf.
 I also store myCV in overleaf, you can access via [link](https://www.overleaf.com/9514101drrnsxjqjkgd#/34482904/) .
